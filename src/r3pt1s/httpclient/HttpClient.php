@@ -11,7 +11,6 @@ use r3pt1s\httpclient\util\RequestMethod;
 use r3pt1s\httpclient\util\RestAction;
 use r3pt1s\httpclient\util\StatusCode;
 use RuntimeException;
-use Throwable;
 
 final class HttpClient {
 
