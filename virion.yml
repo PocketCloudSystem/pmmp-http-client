@@ -1,0 +1,7 @@
+name: http-client
+authors:
+  - r3pt1s
+version: 1.0.0
+antigen: r3pt1s\httpclient
+api:
+  - 5.0.0
