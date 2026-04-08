@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PocketCloudSystem/pmmp-http-client
+build-by-default: true
+branches:
+- main
+projects:
+  pmmp-http-client:
+    path: ""
+    model: virion
+    type: library
+...
